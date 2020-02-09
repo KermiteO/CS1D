@@ -1,0 +1,44 @@
+*************************************************
+* PROGRAMMED BY : Kermite & User
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #3        : Supplement: Coin Flip
+*************************************************
+
+
+Welcome to coin toss! Get 3 heads in a row to win!
+
+What is your name?         Ed Peck
+What is your gender(m/f)?  M
+
+Try to get 3 heads in a row. Good luck Mr. Ed Peck!
+
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+HEADS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+TAILS
+Press <enter> to flip
+HEADS
+Press <enter> to flip
+HEADS
+Press <enter> to flip
+HEADS
+
+It took you 13 tosses to get 3 heads in a row.
+On average you flipped heads 30% of the time.
