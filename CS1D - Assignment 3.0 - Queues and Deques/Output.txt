@@ -1,0 +1,59 @@
+*************************************************************
+* PROGRAMMED BY : Omar Kermiche
+* CLASS         : CS1D
+* PROFESSOR     : Jerry Lebowitz
+* ASSIGNMENT #3 : Queue/Deque
+*
+* Description:
+* This lab comes in two parts. The first part is to
+* implement a queue using a dequeue and a double linked
+* list. In that, the dequeue and dlinkedlist are both 
+* wrapper classes for the queue list. Part 2 of this lab
+* is to implement a vector ADT using an extendable array
+* in a circular fashion so that both insertions and
+* deletions occur in constant time. Print the circular
+* array before and after each insertion and deletion.
+*************************************************************
+
+The queue is EMPTY
+
+After adding 1 string to the queue: (A man, a plan, a canal, Panama) 
+
+After adding 2 strings to the queue: (A man, a plan, a canal, Panama) (Was it a car or a cat I saw?) 
+
+After adding 3 strings to the queue: (A man, a plan, a canal, Panama) (Was it a car or a cat I saw?) (Sit on a potato pan, Otis) 
+
+After adding 4 strings to the queue: (A man, a plan, a canal, Panama) (Was it a car or a cat I saw?) (Sit on a potato pan, Otis) (No lemon, no melon) 
+
+The SIZE of the list is 4
+
+The string at the FRONT of the list is: A man, a plan, a canal, Panama
+
+After DEQUEUEING from the list, the queue is: (Was it a car or a cat I saw?) (Sit on a potato pan, Otis) (No lemon, no melon) 
+
+Before any insertions to circular array:
+1 2 3 
+
+Enter a new number to the front: 4
+4 1 2 3 0 0 
+^     ^     
+F     R     
+
+Add a new number to the rear: 5
+4 1 2 3 5 0 
+^       ^   
+F       R   
+
+Enter another new number to the front: 6
+4 1 2 3 5 6 
+        ^ ^ 
+        R F 
+
+Enter another new number to the front: 7
+7 6 4 1 2 3 5 0 0 0 0 0 
+^           ^           
+F           R           
+
+After deleting from the front of the array: 0 6 4 1 2 3 5 0 0 0 0 
+
+After deleting from the rear of the array: 0 6 4 1 2 3 0 0 0 0 0 
