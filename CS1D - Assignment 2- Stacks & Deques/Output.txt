@@ -1,0 +1,81 @@
+**********************************************************
+* PROGRAMMED BY : Omar
+* CLASS         : CS1D
+* PROFESSOR     : Jerry Lebowitz
+* ASSIGNMENT #2 : Stacks & Dequeues
+*
+* Description:
+* This program creates vector stacks, linked list 
+* queues, and Dequeue linked lists using 2 sets of data.
+* There's a list of strings and a list of doubles. A
+* stack, queue, and Dequeue are all created for each
+* list. It also implements a parentheses matching
+* algorithm
+**********************************************************
+
+NAME STACK USING STL:
+Jane Cathy Mark Alan JoAnn Tasha 
+
+DOUBLE STACK USING STL:
+354.80 1.20 983.30 8.46 123.12 88.88 887.55 48.40 
+
+After deleting Cathy from the name stack stl:
+Mark Alan JoAnn Tasha 
+
+After deleting 1.2 from the double stack stl:
+983.30 8.46 123.12 88.88 887.55 48.40 
+
+NAME LIST USING A STACK
+Jane Cathy Mark Alan JoAnn Tasha 
+
+DOUBLE LIST USING A STACK
+354.80 1.20 983.30 8.46 123.12 88.88 887.55 48.40 
+
+
+AFTER DELETING Cathy FROM THE STACK
+Mark Alan JoAnn Tasha 
+
+AFTER DELETING 1.2 FROM THE STACK
+983.30 8.46 123.12 88.88 887.55 48.40 
+
+
+NAME LIST USING A QUEUE
+Tasha JoAnn Alan Mark Cathy Jane 
+
+DOUBLE LIST USING A QUEUE
+48.40 887.55 88.88 123.12 8.46 983.30 1.20 354.80 
+
+
+After deleting Cathy from the Queue list:
+Jane 
+
+After deleting 1.2 from the Queue List
+354.80 
+
+
+NAME LIST USING A DEQUEUE
+Cathy Alan Tasha JoAnn Mark Jane 
+
+DOUBLE LIST USING A DEQUEUE
+1.20 8.46 88.88 48.40 887.55 123.12 983.30 354.80 
+
+
+After deleting Cathy form the Dequeue list:
+Alan Tasha JoAnn Mark Jane 
+
+After deleting 1.2 from the Dequeue list:
+8.46 88.88 48.40 887.55 123.12 983.30 354.80 
+
+(2x - 4) (12x + 6) is valid
+
+{2x + 5} (6x + 4)} is NOT valid
+
+[(5x - 5) - 4x[6x + 2]] is valid
+
+{{8x+5) - 5x[9x+3]}) is NOT valid
+
+{(8x+5) - 5x[9x+3]}) is NOT valid
+
+(2x - 4) (12x + 6} is NOT valid
+
+(((6x+6) - x[9x+3]))) is NOT valid
