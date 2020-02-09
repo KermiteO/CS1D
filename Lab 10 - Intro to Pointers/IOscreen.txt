@@ -1,0 +1,22 @@
+*************************************************
+* PROGRAMMED BY : Kermite & The Oz
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #10       : Intro to Pointers
+*************************************************
+
+Enter the first value(enter -999 to exit)?  5
+Input the second value?                     25
+
+
+The sum is:     30
+The product is: 125
+
+Enter the first value(enter -999 to exit)?  -12
+Input the second value?                     100
+
+
+The sum is:     88
+The product is: -1200
+
+Enter the first value(enter -999 to exit)?  -999

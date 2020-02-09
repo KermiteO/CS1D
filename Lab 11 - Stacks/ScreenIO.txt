@@ -1,0 +1,342 @@
+*************************************************
+* PROGRAMMED BY : Kermite & Hamodi
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #11       : Implementing a Stack
+*************************************************
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Joe Smith
+Enter Gender: M
+Enter Age:    32
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Grace Hopper
+Enter Gender: F
+Enter Age:    69
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+PEEKING at
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 5
+
+There are 2 on the stack.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Ada Lovelace 
+Enter Gender: F
+Enter Age:    52
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+PEEKING at
+Name:   Ada Lovelace 
+Gender: F
+Age:    52
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 3
+
+The stack is NOT empty.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 2
+
+POPPING at
+Name:   Ada Lovelace 
+Gender: F
+Age:    52
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Charles Babbage
+Enter Gender: M
+Enter Age:    25
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+PEEKING at
+Name:   Charles Babbage
+Gender: M
+Age:    25
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 5
+
+There are 3 on the stack.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 2
+
+POPPING at
+Name:   Charles Babbage
+Gender: M
+Age:    25
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 5
+
+There are 2 on the stack.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+PEEKING at
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 2
+
+POPPING at
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 5
+
+There is one person on the stack.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 3
+
+The stack is NOT empty.
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+PEEKING at
+Name:   Joe Smith
+Gender: M
+Age:    32
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 2
+
+POPPING at
+Name:   Joe Smith
+Gender: M
+Age:    32
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 5
+
+Nobody is on the stack!
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 2
+
+Can't POP from an empty stack!
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 3
+
+Yes, the stack is empty
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 4
+
+There is nobody to PEEK at!
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? -1
+
+**** The number -1 is an invalid entry     ****
+**** Please input a number between 0 and 6 ****
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 7
+
+**** The number 7 is an invalid entry      ****
+**** Please input a number between 0 and 6 ****
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? abc
+
+**** Please input a number between 0 and 6****
+
+1- Add a person (PUSH)
+2- Remove a person (POP)
+3- Is the stack empty? (ISEMPTY)
+4- Who is on top? (PEEK)
+5- How many people are there? (SIZE)
+6- Display Stack
+0- to Exit
+Enter a command? 0
