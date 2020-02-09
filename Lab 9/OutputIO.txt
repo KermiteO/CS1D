@@ -1,0 +1,87 @@
+*************************************************
+* PROGRAMMED BY : Kermite & Maclem
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #9        : Testing
+*************************************************
+
+**************************************************************
+Black Box Testing & White Box Testing
+**************************************************************
+ Please enter the number of sheep: 4
+ Please enter the number of chocolate: 5
+
+Testing CalcMod, numSheep, numChoc:  1
+
+Testing CalcTotal, numSheep, numChoc: 1
+
+Each sheep will get 1 chocolate bars and there will be 1 left over.
+
+Testing GetOutput: 
+Each sheep will get 1 chocolate bars and there will be 1 left over.
+
+
+ Please enter the number of sheep: 2
+ Please enter the number of chocolate: 18
+
+Testing CalcMod, numSheep, numChoc:  0
+
+Testing CalcTotal, numSheep, numChoc: 9
+
+INVALID - Each sheep can't have more than 4 chocolate bars.
+
+Testing GetOutput: 
+INVALID - Each sheep can't have more than 4 chocolate bars.
+
+
+ Please enter the number of sheep: 6
+ Please enter the number of chocolate: 7
+
+Testing CalcMod, numSheep, numChoc:  1
+
+Testing CalcTotal, numSheep, numChoc: 1
+
+Each sheep will get 1 chocolate bars and there will be 1 left over.
+
+Testing GetOutput: 
+Each sheep will get 1 chocolate bars and there will be 1 left over.
+
+
+ Please enter the number of sheep: -2
+
+INVALID Input - Please enter a positive integer: 2
+ Please enter the number of chocolate: -4
+
+INVALID Input - Please enter a positive integer: 4
+
+Testing CalcMod, numSheep, numChoc:  0
+
+Testing CalcTotal, numSheep, numChoc: 2
+
+Each sheep will get 2 chocolate bars and there will be 0 left over.
+
+Testing GetOutput: 
+Each sheep will get 2 chocolate bars and there will be 0 left over.
+
+
+Please enter the number of sheep: 0
+
+INVALID Input - Please enter a positive integer: 1
+ Please enter the number of chocolate: 0
+
+INVALID Input - Please enter a positive integer: 1
+
+Testing CalcMod, numSheep, numChoc:  0
+
+Testing CalcTotal, numSheep, numChoc: 1
+
+Each sheep will get 1 chocolate bars and there will be 0 left over.
+
+Testing GetOutput: 
+Each sheep will get 1 chocolate bars and there will be 0 left over.
+
+
+ Please enter the number of sheep: 1
+ Please enter the number of chocolate: 0
+
+INVALID Input - Please enter a positive integer: 

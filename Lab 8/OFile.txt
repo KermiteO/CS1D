@@ -1,0 +1,12 @@
+*************************************************
+* PROGRAMMED BY : Kermite & DatOwl
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #8        : Structs
+*************************************************
+
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston           $   1423.20
+
+             Average Balance Due: $    355.80

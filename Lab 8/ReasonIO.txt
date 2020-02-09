@@ -1,0 +1,11 @@
+The honest reason that we used my flash drive instead of my partner's
+is because my partner accidentally left his flash drive at home. 
+However, we realize that his flash drive probably would've contained
+the more efficient code, because in my code, there were cases where
+my code could've been written a lot better. For instance, originally
+I had an if else-if statement that checked to make sure that only
+the indexes of found names' data would be calculated, when it was a lot 
+better to use a boolean variable to check to see if the name was found. 
+Another thing that we revised in my code was when we type in the names
+of the input and output files. We revised it so that the entered input 
+would be used to open the files. 

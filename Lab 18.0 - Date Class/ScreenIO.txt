@@ -1,0 +1,65 @@
+*************************************************
+* PROGRAMMED BY : Kermite & Miss Lame
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* Lab #18       : Date Class
+*************************************************
+
+1 - Set Date
+2 - Display Date
+0 - Exit
+Enter Selection: 1
+
+What would you like to change the date to?
+Month(MM)   : 4
+Day(DD)     : 29
+Year(YYYY)  : 2015
+
+The day is valid!
+The month is valid!
+The year is valid!
+
+Your date entered is valid!
+
+The date 4/29/2015 you enter has been set!
+1 - Set Date
+2 - Display Date
+0 - Exit
+Enter Selection: 1
+
+What would you like to change the date to?
+Month(MM)   : 4
+Day(DD)     : 30
+Year(YYYY)  : 2015
+
+The day is valid!
+The month is valid!
+The year is valid!
+
+Your date entered is not valid!
+
+Please re-enter a new date
+What would you like to change the date to?
+Month(MM)   : 2
+Day(DD)     : 12
+Year(YYYY)  : 1999
+
+The day is valid!
+The month is valid!
+The year is valid!
+
+Your date entered is valid!
+
+The date 2/12/1999 you enter has been set!
+1 - Set Date
+2 - Display Date
+0 - Exit
+Enter Selection: 2
+
+The current date is 2/12/1999.
+1 - Set Date
+2 - Display Date
+0 - Exit
+Enter Selection: 0
+
+Thank you for using our program! :)
