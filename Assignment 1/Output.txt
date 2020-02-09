@@ -1,0 +1,110 @@
+******************************************************
+* PROGRAMMED BY: Omar Kermiche
+* CLASS        : CS1B
+* SECTION      : TTH 8:00a - 11:50a
+* ASSIGNMENT #1: Functions
+******************************************************
+
+***********************************************************
+*               WELCOME TO HIGH ROLLER                    *
+*-------------------------------------------------------- *
+* This is a two-player game that allows each player to    *
+* roll a die. The player with the highest roll wins.      *
+*-------------------------------------------------------- *
+* Each player will first be prompted to enter their name. *
+* Then each player will roll in turn (the first name      *
+* entered will go first).                                 *
+***********************************************************
+First player, please enter your name  : Frankie Lane
+Second player, please enter your name : Anjeze Bojaxhiu
+
+Would you like to play High Roller (y/n)? y
+
+Frankie Lane's turn
+Press <enter> to roll...
+
+Frankie Lane rolls:
+-----------
++         +
++  0   0  +
++    0    +
++  0   0  +
++         +
+-----------
+
+Anjeze Bojaxhiu's turn
+Press <enter> to roll...
+
+Anjeze Bojaxhiu rolls:
+-----------
++ 0       +
++         +
++    0    +
++         +
++       0 +
+-----------
+
+Frankie Lane is the WINNER!!!
+
+Would you like to play High Roller (y/n)? x
+** INVALID INPUT - Please enter 'Y' or 'N' **
+
+Would you like to play High Roller (y/n)? y
+
+Frankie Lane's turn
+Press <enter> to roll...
+
+Frankie Lane rolls:
+-----------
++         +
++         +
++    0    +
++         +
++         +
+-----------
+
+Anjeze Bojaxhiu's turn
+Press <enter> to roll...
+
+Anjeze Bojaxhiu rolls:
+-----------
++         +
++  0   0  +
++    0    +
++  0   0  +
++         +
+-----------
+
+Anjeze Bojaxhiu is the WINNER!!!
+
+
+Would you like to play High Roller (y/n)? Y
+
+Frankie Lane's turn
+Press <enter> to roll...
+
+Frankie Lane rolls:
+-----------
++         +
++         +
++    0    +
++         +
++         +
+-----------
+
+Anjeze Bojaxhiu's turn
+Press <enter> to roll...
+
+Anjeze Bojaxhiu rolls:
+-----------
++         +
++         +
++    0    +
++         +
++         +
+-----------
+Frankie Lane & Anjeze Bojaxhiu have tied!
+
+Would you like to play High Roller (y/n)? N
+
+Thank you for playing :-)
