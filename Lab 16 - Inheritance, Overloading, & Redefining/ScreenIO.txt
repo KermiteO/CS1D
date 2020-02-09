@@ -1,0 +1,174 @@
+*********************************************************
+*  PROGRAMMED BY : Kermite & Flash Gordon
+*  CLASS         : CS1B
+*  SECTION       : T/Th 8am
+*  LAB #16       : Inheritance, Overloading, & Redefining
+*********************************************************
+
+*************************************
+* WELCOME TO THE SHEEP LIST MANAGER *
+*************************************
+1 - Initialize Animals
+0 - Exit
+Enter selection: 1
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 4
+
+
+THE SHEEP:
+
+NAME       AGE  WOOLTYPE  COLOR
+---------  ---  --------  ------  
+Bah Baa     3   Medium    Black
+C.S. Ewe    9   Long      Black
+Maa         1   Carpet    White
+Wolly Bolly 0   Fine      White
+
+
+THE PIG(S):
+
+NAME       AGE  TAILTYPE
+---------  ---  -----------  
+Babe        2   CorkScrew
+M.C. Hammer 4   Curls Left
+Pudgy Buddy 8   Straight
+Squealer    5   Curls Right
+Wilbur      1   Curls Up
+
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 3
+
+Enter animal type: sheep
+
+THE SHEEP:
+
+NAME       AGE  WOOLTYPE  COLOR
+---------  ---  --------  ------  
+Bah Baa     3   Medium    Black
+C.S. Ewe    9   Long      Black
+Maa         1   Carpet    White
+Wolly Bolly 0   Fine      White
+
+Which sheep would you like to modify? Wolly Bolly
+
+What would you like the new age to be? 5
+
+The sheep's age has been changed!
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 3
+
+Enter animal type: pig
+
+THE PIG(S):
+
+NAME       AGE  TAILTYPE
+---------  ---  -----------  
+Babe        2   CorkScrew
+M.C. Hammer 4   Curls Left
+Pudgy Buddy 8   Straight
+Squealer    5   Curls Right
+Wilbur      1   Curls Up
+
+Which pig would you like to modify? Wilbur
+
+What would you like the new age to be? 3
+
+The pig's age has been changed!
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 4
+
+
+THE SHEEP:
+
+NAME       AGE  WOOLTYPE  COLOR
+---------  ---  --------  ------  
+Bah Baa     3   Medium    Black
+C.S. Ewe    9   Long      Black
+Maa         1   Carpet    White
+Wolly Bolly 5   Fine      White
+
+
+THE PIG(S):
+
+NAME       AGE  TAILTYPE
+---------  ---  -----------  
+Babe        2   CorkScrew
+M.C. Hammer 4   Curls Left
+Pudgy Buddy 8   Straight
+Squealer    5   Curls Right
+Wilbur      3   Curls Up
+
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 1
+
+The sheep have been re-initialized!
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 2
+
+The pigs have been re-initialized!
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 4
+
+
+THE SHEEP:
+
+NAME       AGE  WOOLTYPE  COLOR
+---------  ---  --------  ------  
+Bah Baa     3   Medium    Black
+C.S. Ewe    9   Long      Black
+Maa         1   Carpet    White
+Wolly Bolly 0   Fine      White
+
+
+THE PIG(S):
+
+NAME       AGE  TAILTYPE
+---------  ---  -----------  
+Babe        2   CorkScrew
+M.C. Hammer 4   Curls Left
+Pudgy Buddy 8   Straight
+Squealer    5   Curls Right
+Wilbur      1   Curls Up
+
+
+1 - Re-Initialize Sheep
+2 - Re-Initialize Pigs
+3 - Change Age
+4 - Display
+0 - Exit
+Enter selection: 0

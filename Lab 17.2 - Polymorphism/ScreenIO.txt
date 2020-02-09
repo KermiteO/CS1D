@@ -1,0 +1,293 @@
+*************************************************************
+*  PROGRAMMED BY  : Kermite & Fireduck
+*  CLASS          : CS1B
+*  SECTION        : TTh: 0800 - 1150
+*  LAB #17        : Polymorphism
+*************************************************************
+
+**************************************
+* WELCOME TO THE ANIMAL LIST MANAGER *
+**************************************
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 1
+
+ANIMAL TYPE:
+(P) - Pig
+(S) - Sheep
+Selection (P/S): S
+
+Sheep's Name: Dah Baa
+Sheep's Age:  1
+
+Sheep Wool Type:
+(L) - Long
+(M) - Medium
+(F) - Fine
+(C) - Carpet
+Enter Choice (L/M/F/C): l
+
+Sheep Color:
+(B) - Black
+(W) - White
+Enter Choice (B/W): b
+
+The Animal:
+,---------------------------------------.
+( My name is Dah Baa and I like to baa! )
+( I have been baaing for 1 Year(s)!     )
+( I am the first in line...             )
+`---------------------------------------'
+   \\
+    \\
+      \    __ _
+       .-:'  `; `-._
+      (_,           )
+    ,'o"(            )>
+   (__,-'            )
+      (             )
+       `-'._.--._.-'
+          |||  |||
+
+I have Black wool and it is Long!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 1
+
+ANIMAL TYPE:
+(P) - Pig
+(S) - Sheep
+Selection (P/S): P
+
+Pig's Name: Babe
+Pig's Age:  5
+
+Pig Tail Type:
+(C) - Corkscrew
+(U) - Curls Up
+(R) - Curls Right
+(L) - Curls Left
+(S) - Straight
+Enter Choice (C/U/R/L/S): s
+
+The Animal:
+,-------------------------------------.
+( My name is Babe and I like to oink! )
+( I have been oinking for 5 Year(s)!  )
+( Dah Baa is following me!            )
+`-------------------------------------'
+   \\
+    \\
+      \
+ _   ,---'-'---.
+(('  \  /-~-\  /
+ \`./ )' a a `( \
+   ( (  ,---.  ) )
+    \ `(_o_o_)' /
+     \   `-'   /
+      | |---| |
+      [_]   [_]
+
+I have a tail that goes Straight!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 1
+
+ANIMAL TYPE:
+(P) - Pig
+(S) - Sheep
+Selection (P/S): P
+
+Pig's Name: Petunia
+Pig's Age:  12
+
+Pig Tail Type:
+(C) - Corkscrew
+(U) - Curls Up
+(R) - Curls Right
+(L) - Curls Left
+(S) - Straight
+Enter Choice (C/U/R/L/S): C
+
+The Animal:
+,----------------------------------------.
+( My name is Petunia and I like to oink! )
+( I have been oinking for 12 Year(s)!    )
+( I am last in line...                   )
+`----------------------------------------'
+   \\
+    \\
+      \
+ _   ,---'-'---.
+(('  \  /-~-\  /
+ \`./ )' a a `( \
+   ( (  ,---.  ) )
+    \ `(_o_o_)' /
+     \   `-'   /
+      | |---| |
+      [_]   [_]
+
+I have a tail that CorkScrews!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 3
+,-------------------------------------.
+( My name is Babe and I like to oink! )
+( I have been oinking for 5 Year(s)!  )
+( Dah Baa is following me!            )
+`-------------------------------------'
+   \\
+    \\
+      \
+ _   ,---'-'---.
+(('  \  /-~-\  /
+ \`./ )' a a `( \
+   ( (  ,---.  ) )
+    \ `(_o_o_)' /
+     \   `-'   /
+      | |---| |
+      [_]   [_]
+
+I have a tail that goes Straight!
+I am at the front of the list.
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 4
+
+Who are you looking for? Petunia
+,----------------------------------------.
+( My name is Petunia and I like to oink! )
+( I have been oinking for 12 Year(s)!    )
+( I am last in line...                   )
+`----------------------------------------'
+   \\
+    \\
+      \
+ _   ,---'-'---.
+(('  \  /-~-\  /
+ \`./ )' a a `( \
+   ( (  ,---.  ) )
+    \ `(_o_o_)' /
+     \   `-'   /
+      | |---| |
+      [_]   [_]
+
+I have a tail that CorkScrews!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 5
+
+There are 3 animal(s) on the Farm!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 6
+ANIMAL  NAME          AGE  WOOL/TAIL TYPE   FOLLOWED BY
+------  ------------  ---  ---------------  -------------
+Pig     Babe            5  Straight         Dah Baa
+Sheep   Dah Baa         1  Long Black       Petunia
+Pig     Petunia        12  CorkScrews       Nobody
+
+There are 3 animal(s) on the Farm!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 2
+
+Who would you like to remove? Dah Baa
+,---------------------------------------.
+( My name is Dah Baa and I like to baa! )
+( I have been baaing for 1 Year(s)!     )
+( Petunia is following me!              )
+`---------------------------------------'
+   \\
+    \\
+      \    __ _
+       .-:'  `; `-._
+      (_,           )
+    ,'o"(            )>
+   (__,-'            )
+      (             )
+       `-'._.--._.-'
+          |||  |||
+
+I have Black wool and it is Long!
+<POOF> Dah Baa is no longer baaing on this farm!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 7
+
+Clearing the Farm:
+removing Babe...
+removing Petunia...
+The list has been cleared!
+
+1 - Add Animal
+2 - Remove Animal
+3 - Output 1st Animal
+4 - Find Animal
+5 - List Size
+6 - Display Table
+7 - Clear List
+0 - Exit
+Enter a command: 0

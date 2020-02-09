@@ -1,0 +1,19 @@
+Maa
+1
+Carpet
+White
+
+Bah Baa
+3
+Medium
+Black
+
+C.S. Ewe
+9
+Long
+Black
+
+Wolly Bolly
+0
+Fine
+White
