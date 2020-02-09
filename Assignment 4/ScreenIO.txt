@@ -1,0 +1,12 @@
+*************************************************
+* PROGRAMMED BY : Kermite
+* CLASS         : CS1B
+* SECTION       : TuTh 8am
+* ASSIGNMENT #4 : Movie List Intro to Link Lists
+*************************************************
+
+*******************************************************
+*            WELCOME TO THE MOVIE LIST!               *
+*******************************************************
+Please enter the input file to use:  InFile.txt
+Please enter the output file to use: OFile.txt
