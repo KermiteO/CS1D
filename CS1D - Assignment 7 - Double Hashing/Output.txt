@@ -1,0 +1,37 @@
+**********************************************************
+* PROGRAMMED BY : Omar Kermiche
+* CLASS         : CS1D
+* PROFESSOR     : Jerry Lebowitz
+* ASSIGNMENT #7 : Double Hashing
+*
+* Description:
+* This software stores the following keys
+* and values into a data structure(s) of
+* using the double hashing algorithm. 
+* Output what data structure you choose.
+* Implement the hash table with a map adt
+* that you make yourself. Print out your data 
+* structure after storing all the entries.
+**********************************************************
+
+Adding entries to hash table using an array:
+
+	   .
+           .
+           .
+
+All entries added to hash table!
+
+After deleting Mission Viejo, Lake Forest, & Riverside:
+
+ | 31,Los Angeles | 32,San Diego |         | 29,Dana Point | 35,Tustin|->
+
+<- |         | 99,San Juan | 42,Vista |         | 88,El Segundo|->
+
+<- | 72,Palms Springs | 11,La Jolla | 62,Laguna Hills | 44,Irvine |        |->
+
+<- |         |         | 17,Orange | 18,Del Mar | 19,Brea|->
+
+<- | 49,San Diego |         | 22,Aliso Viejo |         |        |->
+
+<- |         | 103,Oceanside |         |         | 60,Santa Ana | 41,San Clemente
