@@ -1,0 +1,52 @@
+**********************************************************
+* PROGRAMMED BY : Omar Kermiche
+* CLASS         : CS1D
+* PROFESSOR     : Jerry Lebowitz
+* ASSIGNMENT #8 : Skip Lists
+*
+*Description:
+*This program implements a dictionary using a skip list.
+*All entries are supposed to be sorted and if an entry 
+*has a key that already exists in the list, that entry 
+*gets replaced.
+**********************************************************
+
+The skip list is EMPTY!
+
+Key 73 was NOT ERASED because it was NOT FOUND in the list!
+
+After deleting Mission Viejo, Lake Forest, & Riverside:
+Level 0           Level 1           Level 2           Level 3           Level 4           Level 5           Level 6           Level 7           Level 8           Level 9           Level 10          Level 11          Level 12          Level 13          
+-------           -------           -------           -------           -------           -------           -------           -------           -------           -------           -------           -------           -------           -------           
+-INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         -INFINITY         
+11,La Jolla       11,La Jolla                                                                                                                                                                                                                               
+17,Orange         17,Orange         17,Orange         17,Orange         17,Orange         17,Orange         17,Orange         17,Orange         17,Orange         17,Orange                                                                                 
+18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar        18,Del Mar                                                              
+18,Laguna Niguel  18,Laguna Niguel  18,Laguna Niguel  18,Laguna Niguel  18,Laguna Niguel  18,Laguna Niguel                                                                                                                                                  
+19,Brea                                                                                                                                                                                                                                                     
+22,Aliso Viejo    22,Aliso Viejo    22,Aliso Viejo    22,Aliso Viejo                                                                                                                                                                                        
+22,San Clemente   22,San Clemente   22,San Clemente   22,San Clemente                                                                                                                                                                                       
+29,Dana Point     29,Dana Point     29,Dana Point     29,Dana Point     29,Dana Point     29,Dana Point     29,Dana Point     29,Dana Point                                                                                                                 
+31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles    31,Los Angeles                                                          
+32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego      32,San Diego                                                                              
+35,Tustin         35,Tustin         35,Tustin         35,Tustin         35,Tustin         35,Tustin                                                                                                                                                         
+41,San Clemente                                                                                                                                                                                                                                             
+42,Vista          42,Vista          42,Vista          42,Vista          42,Vista          42,Vista                                                                                                                                                          
+44,Irvine         44,Irvine                                                                                                                                                                                                                                 
+49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego      49,San Diego                        
+49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach   49,Laguna Beach                                                                                             
+49,Anaheim        49,Anaheim        49,Anaheim        49,Anaheim        49,Anaheim        49,Anaheim                                                                                                                                                        
+60,Santa Ana      60,Santa Ana      60,Santa Ana      60,Santa Ana      60,Santa Ana                                                                                                                                                                        
+62,Laguna Hills   62,Laguna Hills   62,Laguna Hills   62,Laguna Hills   62,Laguna Hills   62,Laguna Hills   62,Laguna Hills                                                                                                                                 
+72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs  72,Palms Springs                                                        
+88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo     88,El Segundo                                                                             
+99,San Juan       99,San Juan       99,San Juan                                                                                                                                                                                                             
+103,Oceanside     103,Oceanside     103,Oceanside     103,Oceanside     103,Oceanside                                                                                                                                                                       
++INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         +INFINITY         
+
+ This program utilized 2 random number generators: one was
+ used to decide whether to create a new level & utilized a 
+ true/false. The other was used to decide how many times the
+ new node would be copied 2 each level & it copied a certain #
+ of times based on a number generated between 0 & the max
+ number of levels.
